@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prabahd
+- 👋 Hi, I’m @praba
 - 👀 I’m interested in "Automation,Investigation and Fixing, "
 - 🌱 I’m currently learning "Everything"
 - 💞️ I’m looking to collaborate on "Verifone"
