@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prabahd
-- 👀 I’m interested in "Automation,Investigation"
+- 👀 I’m interested in "Automation,Investigation,Fixing, "
 - 🌱 I’m currently learning "Everything"
 - 💞️ I’m looking to collaborate on "Verifone"
 - 📫 How to reach me EMail/Phone/ 
